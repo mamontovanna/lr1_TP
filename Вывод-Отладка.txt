@@ -1,0 +1,14 @@
+﻿"лр1.exe" (Win32). Загружено "C:\Users\Анна\Desktop\UNIK\4 СЕМЕСТР\Технология программирования\лр1\лр1\Debug\лр1.exe". Символы загружены.
+"лр1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"лр1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"лр1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"лр1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"лр1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"лр1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x3438 завершился с кодом 0 (0x0).
+"лр1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"лр1.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x3e6c завершился с кодом -1073741510 (0xc000013a).
+Поток 0x3320 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x2448 завершился с кодом -1073741749 (0xc000004b).
+Программа "[9980] лр1.exe" завершилась с кодом -1073741510 (0xc000013a).
